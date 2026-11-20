@@ -1,7 +1,7 @@
 Wine Quality Analysis
 ================
 
-GROUP: John Tapia James Pfaff Jacob Dudas
+GROUP: John Tapia, James Pfaff, Jacob Dudas
 
 Imported libraries
 
